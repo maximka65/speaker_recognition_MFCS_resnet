@@ -1,4 +1,4 @@
-# Speaker Recognition System
+# Speaker Recognition model
 
 based on ResNet with Multi-Frequency Information Enhanced Channel Attention Module from the paper:
 https://www.isca-speech.org/archive/pdfs/interspeech_2022/sang22_interspeech.pdf
